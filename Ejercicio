@@ -1,0 +1,15 @@
+
+# Ejercicio desarrollado por Nicolas C. Ballesteros / Universidad de Cundinamarca Seccional Ubate
+# 25 / Agosto / 2026
+# se define la cadena de caracteres
+
+L = {"a" , "b", "ab", "ba", "aa"}
+
+palabra = input ("ingrese una palabra")
+
+if palabra in L:
+    print ("la palabra pertenece a L") 
+else:
+     print ("la palabra no pertenece a L")   
+
+
