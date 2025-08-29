@@ -33,3 +33,14 @@ finalmente para subir los archivos ejecutamos
 --- git push -u origin master/main    (segun como se haya creado se usa main o master)
 
 y listo. Asi se pueden cargar los archivos por medio de comandos en la terminal
+
+para ir actualizando procesos en el repositorio tambien se usaron comandos
+
+usando
+
+--- git status :  para comprobar cambios recientes
+--- git add . / para reescribir cambios
+--- git commit -m "se actualizo README"
+--- git push origin master : para cargar nuevamente 
+
+y asi queda actualizado el repositorio segun se vayan viendo cambios.
