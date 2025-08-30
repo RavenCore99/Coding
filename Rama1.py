@@ -1,12 +1,13 @@
 
 # Rama 1: Ejercicio de Union de Lenguajes
 #Grupo A // Lenguas y Atomatas // 2025
+# Ejercicio hecho en conjunto
 
 def union_lenguajes(lang1, lang2):
-   # """Función para calcular la unión de dos lenguajes."""
+   # "Función para calcular la unión de dos lenguaje
     return lang1.union(lang2)
 
-# Definición de los lenguajes ()
+# Definición de los lenguajes dados
 L1 = {"a", "b", "ab", "ba"}
 L2 = {"b", "c", "bc", "cb"}
 L3 = {"a", "b", "c"}

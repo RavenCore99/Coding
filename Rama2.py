@@ -1,6 +1,6 @@
 # Rama 2: Ejercicio de interseccion de Lenguajes
 #Grupo A // Lenguas y Atomatas // 2025
-
+# Elaborado por Ethan Torres a base de consultas y cooperacion con otros ejercicios 
 
 def interseccion_lenguajes(L1, L2):
     """Calcula la intersección de dos lenguajes (conjuntos)."""

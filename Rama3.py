@@ -1,14 +1,15 @@
 # Rama 3: Ejercicio de concatenacion de Lenguajes
 #Grupo A // Lenguas y Atomatas // 2025
+# elaborada por Nicolas Ballesteros y a base de retroalimentacion de anteriores ejercicios
 
 
 
 def concatenacion_lenguajes(L1, L2):
-    """
-    Calcula la concatenación de dos lenguajes L1 y L2.
-    La concatenación es el conjunto de todas las cadenas formadas
-    por concatenar una cadena de L1 con una cadena de L2.
-    """
+    
+  # Calcula la concatenación de dos lenguajes L1 y L2.
+    
+    # por concatenar una cadena de L1 con una cadena de L2.
+    
     resultado = set()
     for s1 in L1:
         for s2 in L2:
