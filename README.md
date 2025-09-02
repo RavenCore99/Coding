@@ -58,3 +58,23 @@ usando "def" como funcion principal para el request de los parametros que se iba
 Se siguio la estructura logica que ofrece Python para escribir el codigo con variables correspondientes de acuerdo a los requisitos en la plataforma. A la vez que se estructuro los lenguajes dados por los datos y de ahi mismo se partio el desarrollo de cada ejercicio segun se iban siguiendo las indicaciones para mostrar lo que se esta solicitando en un codigo que se divide en 4 archivos .py distintos, cada uno de ellos muestra una estructura unica de acuerdo al ejercicio dado y uno de esos archivos .py se encarga de ejecutar los 3 anteriores ejercicios en un solo llamado a eleccion del usuario para facilitar mas el resultado. 
 --------------------------- 
 
+Guia de clonacion de repositorio 
+
+----
+En nuestro caso para ello hacemos lo siguiente:
+
+-- en una carpeta vacia y reconocible -. clic derecho > abrir en terminal ---
+-- > Se utiliza el comando en terminal "git clone" seguido de la URL del repositorio "https://github.com/RavenCore99/Coding.git"
+
+"Se recomienda crear una carpeta vacia para almacenar los archivos del repositorio para evitar conflictos con perdida de datos"
+
+una vez cargado el repositorio se puede hacer lo siguiente:
+-- opcion 1.. Abrir directo la carpeta con el nombre del respositorio (Coding es el nombre del repositorio), luego clic derecho y abrir con terminal .... ahi ejecutas el script en terminal con "python main.py"
+
+-- opcion 2.. Con la misma terminar que creaste la copia del repositorio usas el comando "cd" seguido de "Coding" que es el nombre de la carpeta contenedora de los archivos del repositorio / luego de estar en ruta con la carpeta ejecutas "python main.py"
+
+-- opcion 3.. cargar la carpeta en visual studio y abrir el codigo del archivo "main.py" y dar ejecutar el codigo 
+
+-------------------------------------------------------------------------------------------------
+
+El codigo ejecutandose por "main.py" ejecuta de forma interactiva con el usuario que se desea hacer de acuerdo a los ejercicios planteaods.-----------------------------------------------
